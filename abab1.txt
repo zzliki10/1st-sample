@@ -4,4 +4,4 @@ if(word==rev_word)
 print("The given word is palindrome")
 else
 print("The given word is not in palindrome")
-error
+my pen is blue in colour

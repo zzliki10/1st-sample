@@ -1,0 +1,7 @@
+word=input(Enter a string:)
+rev_word=word(::-1)
+if(word==rev_word)
+print("The given word is palindrome")
+else
+print("The given word is not in palindrome")
+error
